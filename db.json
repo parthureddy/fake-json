@@ -269,7 +269,7 @@
       "landMark" : "lakshmipuram", 
       "deliveryVehicleType" : "lorry", 
       "deliveryAddress" : null
-      },
+      }
   ],
   "trips":[
       { 
